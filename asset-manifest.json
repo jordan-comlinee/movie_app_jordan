@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie_app_JORDAN/static/css/main.c4a04d87.chunk.css",
+    "main.js": "/movie_app_JORDAN/static/js/main.15ec065d.chunk.js",
+    "main.js.map": "/movie_app_JORDAN/static/js/main.15ec065d.chunk.js.map",
+    "runtime-main.js": "/movie_app_JORDAN/static/js/runtime-main.e386d03e.js",
+    "runtime-main.js.map": "/movie_app_JORDAN/static/js/runtime-main.e386d03e.js.map",
+    "static/js/2.69001277.chunk.js": "/movie_app_JORDAN/static/js/2.69001277.chunk.js",
+    "static/js/2.69001277.chunk.js.map": "/movie_app_JORDAN/static/js/2.69001277.chunk.js.map",
+    "index.html": "/movie_app_JORDAN/index.html",
+    "static/css/main.c4a04d87.chunk.css.map": "/movie_app_JORDAN/static/css/main.c4a04d87.chunk.css.map",
+    "static/js/2.69001277.chunk.js.LICENSE.txt": "/movie_app_JORDAN/static/js/2.69001277.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e386d03e.js",
+    "static/js/2.69001277.chunk.js",
+    "static/css/main.c4a04d87.chunk.css",
+    "static/js/main.15ec065d.chunk.js"
+  ]
+}
